@@ -6,6 +6,7 @@ import { Header } from './components/Header';
 import { IncomeExpenses } from './components/IncomeExpenses';
 import { TransactionList } from './components/TransactionList';
 import { GlobalProvider } from './context/GlobalState';
+import firebase from './firebase'
 
 function App() {
   useEffect( () =>  {
