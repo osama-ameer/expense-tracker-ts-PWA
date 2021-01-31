@@ -5,7 +5,7 @@ let cacheFiles = [
   "https://expense-tracker-pwa-cb63c.web.app/static/js/bundle.js",
   "https://expense-tracker-pwa-cb63c.web.app/static/js/0.chunk.js",
   "https://expense-tracker-pwa-cb63c.web.app/static/js/main.chunk.js",
-  "ttps://expense-tracker-pwa-cb63c.web.app/",
+  "https://expense-tracker-pwa-cb63c.web.app/",
   "https://expense-tracker-pwa-cb63c.web.app/index.html",
   "https://fonts.googleapis.com/css?family=Lato&display=swap"
 ];
